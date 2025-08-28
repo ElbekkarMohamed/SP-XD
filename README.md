@@ -36,5 +36,5 @@ int main() {
 
     cout << "👋 Hi, welcome to my GitHub!" << endl;
     cout << "I'm coding in Python, C & C++ and exploring Linux 🐧" << endl;
-    cout << "Currently learning: " << learning << endl;
+    cout << "Currently learning: " << Javascript << endl;
 }
